@@ -1,4 +1,4 @@
-import FeatureSvg1 from "./component/svg/featureSvg1";
+import FeatureSvg1 from "./component/svg/FeatureSvg1";
 // eslint-disable-next-line react/prop-types
 const FeaturePart = ({ heading, para }) => {
   return (
